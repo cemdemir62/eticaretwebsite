@@ -1,0 +1,26 @@
+{
+  "name": "e-ticaret-sitesi",
+  "version": "1.0.0",
+  "description": "Gelişmiş E-Ticaret Sitesi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["e-ticaret", "online alışveriş", "web sitesi"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "axios": "^1.5.0",
+    "styled-components": "^6.0.8",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "vite": "^4.4.9"
+  }
+}
